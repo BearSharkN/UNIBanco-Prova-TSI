@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Alatsi&display=swap');
+*{
+    font-family: 'Alatsi', sans-serif;
+}
+
+.imagem{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../_img/homem-cartao.jpg);
+    background-size:cover;
+    width: 100%!important;
+    height: 650px!important;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bg-primary{
+    background-color: #CDD2E4!important;
+}
+
+.cartoes{
+    background-color: #CDD2E4;
+    padding-top: 50px;
+    color: black;
+}
+
+.cartoes img{
+    padding-top: 20px;
+    width: 100vh;
+}
+.imagem2{
+ 
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url(../_img/casa.png);
+        background-size:cover;
+        width: 100%!important;
+        height: 650px!important;
+        background-repeat: no-repeat;
+        background-position: center;
+}
+
+.titulo-principal{
+    font-size: 60px;
+    color: white;
+    font-weight: 300;
+    text-align: start;
+    padding-top: 2em;
+    padding-left: 2em;
+}
+
+.titulo-perguntas{
+    font-size: 70px;
+    color: white;
+    font-weight: 300;
+    padding-top: 1em;
+    padding-left: auto;
+}
+
+.paragrafos{
+    font-size: 20px;
+    color: white;
+    font-weight: 300;
+    text-align: start;
+    padding-left: 6.1em;
+}
+
+.duvidas{
+    background-color: #5c7beb;
+    height: 100vh;
+}
+
+.cad{
+    background-color: white;
+}
